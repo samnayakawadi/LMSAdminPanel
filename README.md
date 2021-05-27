@@ -3,4 +3,5 @@ This project was created for Internship Purposes [C3 Experiential Learning Priva
 
 Framework used : Bootstrap V5
 
-Visit samir.nayakawadi.com for more projects.
+Project Link : https://nayakawadi.com/projects/internships/LMS/
+Visit https://samir.nayakawadi.com for more projects.
