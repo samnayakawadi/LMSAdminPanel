@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+/* Navigation */
+.icons{
+    width: 13px;
+    height: 13px;
+}
+
+.new{
+    width: 23px;
+    height: 23px;
+}
+
+.user, .bell{
+    width: 30px;
+    height: 30px;
+}
+
+.dropdown-toggle::after {
+    content: none;
+}
+
+/* Sections 1 2 3 */
+
+.col1{
+    width: 25%;
+}
+.col2{
+    width: 50%;
+}
+.col3{
+    width: 20%;
+}
+
+.myContainer{
+    width: 95%;
+    margin: auto;
+}
+
+/* Section 2 */
